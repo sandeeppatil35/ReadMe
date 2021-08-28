@@ -1,0 +1,6 @@
+many to many relation in orm.. table management.
+transaction manangement... in microservices.
+isolation level.
+heap dum analysis.
+garbage collection types
+how to process big size of file into db with limited resources..
